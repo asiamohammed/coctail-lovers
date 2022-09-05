@@ -19,6 +19,21 @@ input[type="search"]{
       height: 4em;
       border:2px solid rgb(255, 0, 111);
       border-radius: 20px;
+      padding: 0 1em;
+}
 
+h2{
+      margin-top:3em;
+      text-align: center;
+}
 
+.disp div{
+      display:flex;
+      justify-content: flex-start;
+     align-items: flex-start;
+      flex-direction: column;
+      padding:1em;
+      box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+      width:fit-content;
+      height: fit-content;
 }
