@@ -1,0 +1,49 @@
+{
+      "cocktails":[
+            {
+                  "name":"Mojito",
+                  "image":"https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
+                  "category":"popular"
+            },
+            {
+                  "name":"Margarita",
+                  "image":"https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
+                  "category":"popular"
+            },
+            {
+                  "name":"Martini",
+                  "image":"https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
+                  "category":"local"
+            },
+            {
+                  "name":"Pisco Punch",
+                  "image":"https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_piscopunch.jpg"
+            },
+            {
+                  "name":"Corpse Reviver",
+                  "iamge":"https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_corpsereviver.jpg",
+                  "category":"local"
+            },
+            {
+                  "name":"Irish Coffee",
+                  "image":"https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_irishcoffee.jpg",
+                  "category":"new"
+            },
+            {
+                  "name":"Hanky Panky",
+                  "image":"https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_hankypanky.jpg",
+                  "category":"new"
+            },
+            {
+                  "name":"Long Island Iced Tea",
+                  "image":"https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_longislandicedtea.jpg",
+                  "category":"popular"
+            },
+            {
+                  "name":"Pisco Sour",
+                  "image":"https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_piscosour.jpg",
+                  "category":"popular"
+
+            }
+      ]
+}
