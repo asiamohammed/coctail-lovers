@@ -48,7 +48,7 @@ document.getElementById('search').addEventListener('keyup', (e) => {
       const cards = document.querySelectorAll('.card')
       cards.forEach(card => {
             const name = card.querySelector('h4').textContent.toLowerCase()
-            if(name.startsWith(search)){
+            if(name.includes(search)){
                   card.style.display = 'block'
             }else{
                   card.style.display = 'none'
