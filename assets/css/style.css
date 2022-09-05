@@ -37,3 +37,8 @@ h2{
       width:fit-content;
       height: fit-content;
 }
+i{
+      font-size: 1.5em;
+      color: red;
+
+}
