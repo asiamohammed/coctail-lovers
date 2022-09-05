@@ -27,18 +27,30 @@ h2{
       text-align: center;
 }
 
-.disp div{
+.disp{
+      display: flex;
+      justify-content: flex-start;
+      flex-direction: column;
+      flex-wrap: wrap;
+
+}
+i{
+      font-size: 1.5em;
+      color: red;
+
+}
+.card{
+      width: 20em;
+      height: 20em;
       display:flex;
       justify-content: flex-start;
      align-items: flex-start;
       flex-direction: column;
       padding:1em;
       box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-      width:fit-content;
-      height: fit-content;
 }
-i{
-      font-size: 1.5em;
-      color: red;
-
+.card img{
+      width:90%;
+      height:80%;
+      border-radius: 20px;
 }
