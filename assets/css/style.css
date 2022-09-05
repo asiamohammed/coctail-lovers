@@ -58,3 +58,12 @@ i{
 #popular{
       margin:auto;
 }
+h3{
+      padding: 0.5em;
+      width: fit-content;
+      height: fit-content;
+}
+h3:hover{
+      color:white;
+      background-color: rgb(255, 0, 111);
+}
