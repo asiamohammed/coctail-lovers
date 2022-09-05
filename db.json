@@ -1,49 +1,74 @@
 {
-      "cocktails":[
-            {
-                  "name":"Mojito",
-                  "image":"https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
-                  "category":"popular"
-            },
-            {
-                  "name":"Margarita",
-                  "image":"https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
-                  "category":"popular"
-            },
-            {
-                  "name":"Martini",
-                  "image":"https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
-                  "category":"local"
-            },
-            {
-                  "name":"Pisco Punch",
-                  "image":"https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_piscopunch.jpg"
-            },
-            {
-                  "name":"Corpse Reviver",
-                  "iamge":"https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_corpsereviver.jpg",
-                  "category":"local"
-            },
-            {
-                  "name":"Irish Coffee",
-                  "image":"https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_irishcoffee.jpg",
-                  "category":"new"
-            },
-            {
-                  "name":"Hanky Panky",
-                  "image":"https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_hankypanky.jpg",
-                  "category":"new"
-            },
-            {
-                  "name":"Long Island Iced Tea",
-                  "image":"https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_longislandicedtea.jpg",
-                  "category":"popular"
-            },
-            {
-                  "name":"Pisco Sour",
-                  "image":"https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_piscosour.jpg",
-                  "category":"popular"
-
-            }
-      ]
+  "cocktails": [
+    {
+      "name": "Mojito",
+      "image": "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
+      "category": "popular"
+    },
+    {
+      "name": "Margarita",
+      "image": "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
+      "category": "popular"
+    },
+    {
+      "name": "Martini",
+      "image": "https://www.thecocktaildb.com/images/media/drink/5noda61589575158.jpg",
+      "category": "local"
+    },
+    {
+      "name": "Pisco Punch",
+      "image": "https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_piscopunch.jpg",
+      "category": "local"
+    },
+    {
+      "name": "Whiskey Sour",
+      "image": "https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_whiskeysour.jpg",
+      "category": "new"
+    },
+    {
+      "name": "Irish Coffee",
+      "image": "https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_irishcoffee.jpg",
+      "category": "new"
+    },
+    {
+      "name": "Hanky Panky",
+      "image": "https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_hankypanky.jpg",
+      "category": "new"
+    },
+    {
+      "name": "Long Island Iced Tea",
+      "image": "https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_longislandicedtea.jpg",
+      "category": "popular"
+    },
+    {
+      "name": "Pisco Sour",
+      "image": "https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_piscosour.jpg",
+      "category": "popular"
+    },
+    {
+      "name":"Negroni",
+      "image":"https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_negroni.jpg",
+      "category":"new"
+    },
+    {
+      "name":"Bloody Mary",
+      "image":"https://vinepair.com/wp-content/uploads/2022/01/50mostpopularcocktails2022_internal_bloodymary.jpg",
+      "category":"local"
+    },
+    {
+      "name":"Cosmopolitan",
+      "image":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cosmopolitan-1592951320.jpg?crop=1xw:1xh;center,top&resize=980:*",
+      "category":"new"
+    },
+    {
+      "name":"Peranakan",
+      "image":"https://media.timeout.com/images/105484403/750/562/image.jpg",
+      "category":"local"
+    },
+    {
+      "name":"Spiced Rusty Cherry",
+      "image":"https://media.timeout.com/images/105484390/750/562/image.jpg",
+      "category":"local"
+    }
+  ]
 }
