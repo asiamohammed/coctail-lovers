@@ -1,17 +1,19 @@
 function fetchData(){
-      fetch('http://localhost:3000/cocktails')
+      return fetch('http://localhost:3000/cocktails')
       .then(response => response.json())
       .then(json => json)
 }
-fetchData()
+
+let data = fetchData()
+
 
 function createHtml(data){
+      const div = document.createElement('div')
       const html = `
-      <div class="card">
-            <h2>${data.name}</h2>
             <img src="${data.image}" alt="${data.name}">
-      </div>
+            <h4>${data.name}</h4>
       `
+      div.innerHTML = html
       const i = document.createElement('i')
       i.className='fas fa-heart'
       i.addEventListener('click', () => {
@@ -21,5 +23,6 @@ function createHtml(data){
                   i.style.color = 'red'
             }
       })
-      return html
+      div.appendChild(i)
+      return div
 }
