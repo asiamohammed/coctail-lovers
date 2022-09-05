@@ -19,11 +19,7 @@ function createHtml(data){
       const i = document.createElement('i')
       i.className='fas fa-heart'
       i.addEventListener('click', () => {
-            if (i.style.color === 'red') {
-                  i.style.color = 'black'
-            } else {
-                  i.style.color = 'red'
-            }
+            i.classList.toggle('active')
       })
       div.appendChild(i)
       return div
