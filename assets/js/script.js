@@ -3,7 +3,7 @@ const neww = document.querySelector('#new .disp')
 const local = document.querySelector('#local .disp')
 
 function fetchData(){
-      return fetch('http://localhost:3000/cocktails')
+      return fetch('git@github.com:asiamohammed/coctail-lovers.git')
       .then(response => response.json())
       .then(json => json)
 }
